@@ -8,14 +8,7 @@ public class DcModuleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DcModuleApplication.class, args);
-
-		System.out.println("Application Running");
-		System.out.println("This is Keshri");
-		System.out.println("Hii");
-
-
-		System.out.println("Got Aklkeshs Message");
-		System.out.println("Got Tanmay Message");
+		System.out.println("Tanmay commiting");
 	}
 
 }
